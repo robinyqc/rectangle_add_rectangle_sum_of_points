@@ -1,0 +1,4 @@
+Results for program A:
+Mean: 4.313534, Variance: 0.047264, Std Dev: 0.217404, Range: 1.006154, Median: 4.248136
+Results for program B:
+Mean: 3.811577, Variance: 0.014708, Std Dev: 0.121277, Range: 0.441078, Median: 3.785602
