@@ -8,7 +8,7 @@ touch "$1.cpp"
 make $1
 
 while [ "$test_case" -lt $2 ]; do
-    python gen.py 5000 5000 1000000000 1000000000 998244353 0 1 2 3 > small.in
+    python gen.py 5000 5000 1000000000 1000000000 998244353 -OP 0 1 2 3 > small.in
     ./brute_force < small.in > small.ans
     ./$1 < small.in > small.out
     if ! diff -w small.out small.ans > /dev/null; then

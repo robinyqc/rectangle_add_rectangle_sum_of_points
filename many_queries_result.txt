@@ -11,3 +11,9 @@ Results for program A:
 Mean: 2.489765, Variance: 0.000130, Std Dev: 0.011422, Range: 0.039717, Median: 2.487874
 Results for program B:
 Mean: 1.976429, Variance: 0.005672, Std Dev: 0.075312, Range: 0.428075, Median: 1.962766
+
+GitHub Codespace (AMD EPYC 7763 64-Core Processor)
+Results for program A:
+Mean: 3.099580, Variance: 0.014498, Std Dev: 0.120406, Range: 0.499088, Median: 3.079618
+Results for program B:
+Mean: 2.421733, Variance: 0.011235, Std Dev: 0.105996, Range: 0.359365, Median: 2.412517
