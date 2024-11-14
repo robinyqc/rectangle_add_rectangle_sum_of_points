@@ -15,5 +15,5 @@ To compare two programs:
 
 ```sh
 chmod +x gen_max_random.py
-python time_compare.py -C gen_max_random.py (or any other executable generator) [-T] [-OP]
+python time_compare.py A B -C gen_max_random.py (or any other executable generator) [-T] [-OP]
 ```

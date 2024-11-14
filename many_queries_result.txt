@@ -1,4 +1,4 @@
-Command: pypy3 time_compare.py -C gen_max_random.py kdt_online kdt_offline
+Command: pypy3 time_compare.py -C gen_max_random.py kdt_online kdt_offline -OP 2 3
 
 Archlinux (Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz)
 Results for program A:
